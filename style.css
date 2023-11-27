@@ -1,0 +1,20 @@
+header{
+   background-color:#194d9f;
+
+}
+nav > ul >  li {
+        display:inline-block;
+        color:white;
+        padding-left:10px;
+
+}
+nav{
+   text-align:right;
+}
+
+.about h1{
+
+text-align:center;
+font-size:40px;
+
+}
